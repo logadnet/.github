@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Logad Networks helps businesses/individuals transform ideas into impactful mobile and web solutions
 <!--
 
 **Here are some ideas to get you started:**
